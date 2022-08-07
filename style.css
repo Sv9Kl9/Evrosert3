@@ -1175,6 +1175,7 @@ form{
   .contacts-wrap{
     padding-top: 100px;
     padding-bottom: 100px;
+    background-attachment: scroll;
   }
 }
 
